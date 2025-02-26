@@ -20,7 +20,8 @@ public class HashMapEx {
 			Integer strValue = friends.get(strKey);
 			System.out.println(strKey + ":strValue:" +strValue);
 			
-			///HashMap 만능
+			///HashMap 만능   
+			///key는 붕복 불가 value는 붕복 가능
 		}
 	}
 
